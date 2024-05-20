@@ -27,4 +27,4 @@
     - API на фреймворке ASP.NET;
     - Flask-приложение с парсером;
     - Postgres;
-    - elasticsearch.
+    - opensearch.
